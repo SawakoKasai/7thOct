@@ -5,3 +5,4 @@ test 2 8th October
 changing from Ubuntu
 Chaning test 2 from Ubuntu
 Chaning test 3 from Ubuntu
+changing test and trying git status from Ubuntu
